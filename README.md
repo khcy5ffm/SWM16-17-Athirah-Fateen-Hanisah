@@ -11,3 +11,6 @@ To connect to ur remote repository
 - then, write 'git pull' to save the changes you've made to the online repository (this is because when you commit u only save in ur remote repository)
 - there's another command named 'git pull' which mean u will update ur remote repository from the online repository
 - and that's all! (>w<)V  
+
+Hanisah
+-Hey, you olzzzzz
