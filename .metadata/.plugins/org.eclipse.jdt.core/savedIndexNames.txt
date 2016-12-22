@@ -1,0 +1,9 @@
+INDEX VERSION 1.129+C:\Users\User\Desktop\SWM P2\Git Repo Demo\SWMingPractice\.metadata\.plugins\org.eclipse.jdt.core
+933026853.index
+2788357510.index
+3967771213.index
+2899512358.index
+3771481477.index
+154386020.index
+1681060881.index
+2982634948.index

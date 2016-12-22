@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 6 elements to &apos;TileMapEditorDemo/src&apos;&#x0D;&#x0A;- Original project: &apos;TileMapEditor&apos;&#x0D;&#x0A;- Destination element: &apos;TileMapEditorDemo/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     MyPanel.java&#x0D;&#x0A;     App.java&#x0D;&#x0A;     Block.class&#x0D;&#x0A;     App.class&#x0D;&#x0A;     Block.java&#x0D;&#x0A;     MyPanel.class" description="Copy files" destination="=TileMapEditorDemo/src" element1="MyPanel.java" element2="App.java" element3="Block.class" element4="App.class" element5="Block.java" element6="MyPanel.class" files="6" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1482375387348" units="0" version="1.0"/>
+</session>
